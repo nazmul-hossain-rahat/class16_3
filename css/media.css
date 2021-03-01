@@ -1,0 +1,29 @@
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+	h1{
+	color: red;
+}
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+	h1{
+	color: blue;
+}
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+	h1{
+	color: yellow;
+}
+ }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+	h1{
+	color: teal;
+} }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }
